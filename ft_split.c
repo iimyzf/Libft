@@ -75,16 +75,3 @@ char	**ft_split(char const *s, char c)
 	tab[i] = NULL;
 	return (tab);
 }
-
-int	main()
-{
-	char **s;
-	int	i = 0;
-	s = ft_split("grep ' '", ' ');
-	while (s[i])
-	{
-		printf("%s\n", s[i]);
-		i++;
-	}
-	return (0);
-}
