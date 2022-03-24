@@ -2,7 +2,7 @@
   <strong>Libft</strong>
 </h1>
 <h4 align="center">
-  <i>your very first library!</i>
+  <i>your very first own library!</i>
 </h4>
 
 ## 💡 About the project
